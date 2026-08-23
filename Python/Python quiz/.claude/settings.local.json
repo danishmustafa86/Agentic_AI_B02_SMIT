@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest quiz-app --typescript --tailwind --app --eslint --no-git --skip-install -y)",
+      "Bash(npm install *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
