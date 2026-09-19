@@ -1,0 +1,24 @@
+# ============================================================
+# Requirements for LangChain, LangGraph & 2026 Agentic AI Course
+# ============================================================
+
+# 1. Core Frameworks
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.0
+
+# 2. Observability & Tracing
+langsmith>=0.3.0
+
+# 3. Free LLM Providers (Google Gemini & Groq)
+langchain-google-genai>=4.0.0
+langchain-groq>=1.0.0
+
+# 4. Model Context Protocol (MCP) Standards
+mcp>=1.24.0
+langchain-mcp-adapters>=0.3.0
+
+# 5. Utilities & Environment Configuration
+python-dotenv>=1.0.0
+pydantic>=2.0.0
